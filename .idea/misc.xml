@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+<<<<<<< HEAD
     <option name="sdkName" value="Python 3.13 (Aula03)" />
+=======
+    <option name="sdkName" value="Python 3.13 (Desafio01)" />
+>>>>>>> d20b2736ebec4de5463084fa96644f3c6a3a9c26
   </component>
 </project>
